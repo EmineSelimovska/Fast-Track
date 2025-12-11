@@ -27,6 +27,11 @@ body {
   text-decoration: underline;
 }
 
+.home-container {
+  text-align: center;
+  margin-top: 60px;
+}
+
 
 .overview-container {
   max-width: 400px;

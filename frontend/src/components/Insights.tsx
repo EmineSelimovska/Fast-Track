@@ -60,7 +60,7 @@ export default function InsightsComponent() {
       </div>
 
       <div className="navigation">
-       <Link to="/overview" className="nav-btn">Back</Link>
+       <Link to="/" className="nav-btn">Back</Link>
       </div>
     </div>
   );
