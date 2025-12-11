@@ -7,7 +7,7 @@ import InsightsComponent from "./components/Insights";
 function App() {
   return (
     <Router >
-      <div className="min-h-screen bg-gray-100 p-6">
+      <div>
         <Navigation />
         <Routes>
           <Route path="/overview" element={<OverviewComponent />} />
